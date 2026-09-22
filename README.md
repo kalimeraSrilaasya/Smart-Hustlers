@@ -1,7 +1,7 @@
 Team Name: Smart Hustlers
 Team members and Job Roles:
 
-(TL) K.Sri Laasya - 246F1A0538 (AI Engineer)
+(TL) K.Sri Laasya - 246F1A0538 (Entrepreneur)
 
 B.Ruthika - 246F1A0510 (AI Engineer)
 
